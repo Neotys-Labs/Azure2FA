@@ -20,7 +20,7 @@ This repository contains NeoLoad Advanced Actions that allows performance tester
 
 ### Setting up the TOTP Advance action for Azure/Google Autheticator
 
-1. Download the latest Advance Action jar [latest release](https://github.com/Neotys-Labs/SAP_RFC/releases/tag/sap-RFC-0.0.6).
+1. Download the latest Advance Action jar [latest release](https://github.com/Neotys-Labs/Azure2FA/releases/tag/Azure2FA_TOTPFinal).
    Keept the Jar file in the extlib folder of yor Neoload Project
 
 4. Reopen Neoload project
