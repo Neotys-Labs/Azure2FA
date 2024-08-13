@@ -35,7 +35,7 @@ This repository contains NeoLoad Advanced Actions that allows performance tester
 Status Codes:
 * NL-TOTP_ERROR :  Any error while genearting code 
 Example:
-<p align="center"><img src="/screenshot/sap_rfc_reqdesign.PNG" alt="sap_rfc" /></p>
+<p align="center"><img src="/screenshot/TOTP.PNG" alt="TOTP" /></p>
 
 ## ChangeLog
 
