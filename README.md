@@ -30,7 +30,7 @@ This repository contains NeoLoad Advanced Actions that allows performance tester
 
 | Name                     | Description       |
 | ---------------          | ----------------- |
-| Secret                   | Secret genarted by your Application at the time of registration os user/password reset            |
+| Secret                   | Secret generated at the time of registration of user/password reset in the applictaion    |
 
 Status Codes:
 * NL-TOTP_ERROR :  Any error while genearting code 
