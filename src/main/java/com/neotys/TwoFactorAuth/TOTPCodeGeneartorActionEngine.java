@@ -6,6 +6,7 @@ import com.neotys.extensions.action.ActionParameter;
 import com.neotys.extensions.action.engine.ActionEngine;
 import com.neotys.extensions.action.engine.Context;
 import com.neotys.extensions.action.engine.SampleResult;
+import com.warrenstrange.googleauth.GoogleAuthenticator;
 
 public final class TOTPCodeGeneartorActionEngine implements ActionEngine {
 

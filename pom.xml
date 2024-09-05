@@ -16,27 +16,19 @@
             <groupId>com.neotys.actions</groupId>
             <artifactId>neotys-custom-action-api</artifactId>
             <version>2.6.0</version>
-            <scope>provided</scope>
-           
-        </dependency>
+           <scope>provided</scope>
+              </dependency>
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
             <version>4.11</version>
             <scope>test</scope>
         </dependency>
-<dependency>
-    <groupId>commons-codec</groupId>
-    <artifactId>commons-codec</artifactId>
-    <version>1.17.1</version>
+        <dependency>
+    <groupId>com.warrenstrange</groupId>
+    <artifactId>googleauth</artifactId>
+    <version>1.5.0</version>
 </dependency>
-<!-- https://mvnrepository.com/artifact/org.apache.httpcomponents/httpclient -->
-<dependency>
-    <groupId>org.apache.httpcomponents</groupId>
-    <artifactId>httpclient</artifactId>
-    <version>4.5.14</version>
-</dependency>
-
 
     </dependencies>
     <build>

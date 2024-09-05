@@ -19,6 +19,7 @@ public final class TOTPCodeGeneartorAction implements Action{
 	private static final String DISPLAY_NAME = ResourceBundle.getBundle(BUNDLE_NAME, Locale.getDefault()).getString("displayName");
 	private static final String DISPLAY_PATH = ResourceBundle.getBundle(BUNDLE_NAME, Locale.getDefault()).getString("displayPath");
 	private static final ImageIcon LOGO_ICON = new ImageIcon(TOTPCodeGeneartorAction.class.getResource("icons8-key-50.png"));
+
 	@Override
 	public String getType() {
 		return "TOTPCodeGeneartor";
@@ -40,8 +41,8 @@ public final class TOTPCodeGeneartorAction implements Action{
 	@Override
 	public Icon getIcon() {
 		// TODO Add an icon
+		//return null;
 		return LOGO_ICON;
-	
 	}
 
 	@Override
@@ -56,7 +57,7 @@ public final class TOTPCodeGeneartorAction implements Action{
 		description.append("TOTPCodeGeneartor description.\n");
 		description.append("This action allows you to genearte TOTP code for Microsoft & google Two factor authentication.\n Parameters:\n");
 		description.append("SecretKey: The Secretkey  received from your application post registering the user \n");
-		
+
 		return description.toString();
 	}
 

@@ -23,14 +23,9 @@
       <scope>test</scope>
     </dependency>
     <dependency>
-      <groupId>commons-codec</groupId>
-      <artifactId>commons-codec</artifactId>
-      <version>1.17.1</version>
-    </dependency>
-    <dependency>
-      <groupId>org.apache.httpcomponents</groupId>
-      <artifactId>httpclient</artifactId>
-      <version>4.5.14</version>
+      <groupId>com.warrenstrange</groupId>
+      <artifactId>googleauth</artifactId>
+      <version>1.5.0</version>
     </dependency>
   </dependencies>
   <repositories>
