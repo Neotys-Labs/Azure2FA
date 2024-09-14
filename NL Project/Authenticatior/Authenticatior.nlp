@@ -1,0 +1,16 @@
+# Project description file
+
+project.name=Authenticatior
+project.version=8.10
+project.original.version=8.10
+product.name=NeoLoad
+product.original.name=NeoLoad
+ssh.trustUnknownHosts.MONITORS=false
+monitor.tls.insecure=false
+product.version=2024.2.0
+product.original.version=2024.2.0
+project.is-open-test-settings-after-upload=false
+project.id=d569d905-3158-431f-b0f8-7d125f6c046b
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=false
